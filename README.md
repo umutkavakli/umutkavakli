@@ -2,13 +2,6 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Umut Kaan Kavaklı from Eskisehir<br><br>- 🔭 I’m working as ML Engineer<br>- 📚 I'm currently learning computer vision<br>- ⚡ In my free time I build ML projects</p>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/umutkavakli/" target="_blank">
@@ -20,15 +13,16 @@
   <a href="https://twitter.com/umutkavakli" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
+  <br>
+  <a href="https://leetcode.com/umutkavakli/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="50" alt="leetcode logo"  />
+  </a>
+  <a href="https://huggingface.co/umutkavakli" target="_blank">
+    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" height="50" alt="huggingface logo"  />
+  </a>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=umutkavakli.umutkavakli&"  />
-</div>
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -56,12 +50,3 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=umutkavakli&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
