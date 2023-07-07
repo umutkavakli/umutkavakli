@@ -13,7 +13,7 @@
   <a href="https://twitter.com/umutkavakli" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-
+  <br>
   <br>
   <a href="https://leetcode.com/umutkavakli/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="50" alt="leetcode logo"  />
@@ -22,7 +22,7 @@
     <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" height="50" alt="huggingface logo"  />
   </a>
   <a href="https://www.kaggle.com/umutkavakli" target="_blank">
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" height="50" alt="linkedin logo"  />
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" height="45" alt="linkedin logo"  />
   </a>
 </div>
 
